@@ -17,6 +17,7 @@ add_library( # Sets the name of the library.
         // vi thao dep trai
         // hehehe
         // new test
+        // second commit
 
              # Sets the library as a shared library.
              SHARED
