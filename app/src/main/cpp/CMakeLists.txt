@@ -18,6 +18,10 @@ add_library( # Sets the name of the library.
         // hehehe
         // new test
         // second commit
+       // hihihihi five
+        // third commit
+
+        // four commit
 
              # Sets the library as a shared library.
              SHARED
